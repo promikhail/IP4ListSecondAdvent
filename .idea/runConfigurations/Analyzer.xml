@@ -3,7 +3,7 @@
     <option name="MAIN_CLASS_NAME" value="com.promikhail.research.ip4list.analyzer.MainKt" />
     <module name="IP4ListSecondAdvent.analyzer.main" />
     <shortenClasspath name="NONE" />
-    <option name="VM_PARAMETERS" value="-Xms512M -Xmx528M" />
+    <option name="VM_PARAMETERS" value="-Xms512M -Xmx536M" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
