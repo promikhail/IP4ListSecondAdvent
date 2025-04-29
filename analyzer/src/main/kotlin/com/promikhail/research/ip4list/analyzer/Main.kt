@@ -6,7 +6,7 @@ import java.io.File
 
 
 fun main() = runBlocking {
-    val fileName = "ip4list_1_000_000_000.txt"
+    val fileName = "ip4list_huge.txt"
 
     val file = File("files/$fileName")
 
